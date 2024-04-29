@@ -11,23 +11,23 @@
 
 Se creó el proyecto con Spring initializer
 
-![imagen001](src/main/resources/static/images/imagen001.png)
+![imagen001](images/imagen001.png)
 
 ## Instalación de JDK 21
 
 Instalar Java JDK 21
 
-![imagen015](src/main/resources/static/images/imagen015.png)
+![imagen015](images/imagen015.png)
 
-![imagen016](src/main/resources/static/images/imagen016.png)
+![imagen016](images/imagen016.png)
 
-![imagen017](src/main/resources/static/images/imagen017.png)
+![imagen017](images/imagen017.png)
 
-![imagen018](src/main/resources/static/images/imagen018.png)
+![imagen018](images/imagen018.png)
 
-![imagen019](src/main/resources/static/images/imagen019.png)
+![imagen019](images/imagen019.png)
 
-![imagen020](src/main/resources/static/images/imagen020.png)
+![imagen020](images/imagen020.png)
 
 ![imagen021](src/main/resources/static/images/imagen021.png)
 
