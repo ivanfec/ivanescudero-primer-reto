@@ -17,51 +17,51 @@ Se creó el proyecto con Spring initializer
 
 Instalar Java JDK 21
 
-![imagen015](src/main/resources/static/images/imagen015.png)
+![imagen015](src/main/resources/static/images/Imagen015.png)
 
-![imagen016](src/main/resources/static/images/imagen016.png)
+![imagen016](src/main/resources/static/images/Imagen016.png)
 
-![imagen017](src/main/resources/static/images/imagen017.png)
+![imagen017](src/main/resources/static/images/Imagen017.png)
 
-![imagen018](src/main/resources/static/images/imagen018.png)
+![imagen018](src/main/resources/static/images/Imagen018.png)
 
-![imagen019](src/main/resources/static/images/imagen019.png)
+![imagen019](src/main/resources/static/images/Imagen019.png)
 
-![imagen020](src/main/resources/static/images/imagen020.png)
+![imagen020](src/main/resources/static/images/Imagen020.png)
 
-![imagen021](src/main/resources/static/images/imagen021.png)
+![imagen021](src/main/resources/static/images/Imagen021.png)
 
-![imagen022](src/main/resources/static/images/imagen022.png)
+![imagen022](src/main/resources/static/images/Imagen022.png)
 
 ## Importar y configurar IDE
 
 Importar y configurar el IDE para ejecutar el proyecto
 
-![imagen002](src/main/resources/static/images/imagen002.png)
+![imagen002](src/main/resources/static/images/Imagen002.png)
 
-![imagen003](src/main/resources/static/images/imagen003.png)
+![imagen003](src/main/resources/static/images/Imagen003.png)
 
-![imagen004](src/main/resources/static/images/imagen004.png)
+![imagen004](src/main/resources/static/images/Imagen004.png)
 
-![imagen005](src/main/resources/static/images/imagen005.png)
+![imagen005](src/main/resources/static/images/Imagen005.png)
 
-![imagen006](src/main/resources/static/images/imagen006.png)
+![imagen006](src/main/resources/static/images/Imagen006.png)
 
-![imagen007](src/main/resources/static/images/imagen007.png)
+![imagen007](src/main/resources/static/images/Imagen007.png)
 
-![imagen008](src/main/resources/static/images/imagen008.png)
+![imagen008](src/main/resources/static/images/Imagen008.png)
 
-![imagen009](src/main/resources/static/images/imagen009.png)
+![imagen009](src/main/resources/static/images/Imagen009.png)
 
-![imagen010](src/main/resources/static/images/imagen010.png)
+![imagen010](src/main/resources/static/images/Imagen010.png)
 
-![imagen011](src/main/resources/static/images/imagen011.png)
+![imagen011](src/main/resources/static/images/Imagen011.png)
 
-![imagen012](src/main/resources/static/images/imagen012.png)
+![imagen012](src/main/resources/static/images/Imagen012.png)
 
-![imagen013](src/main/resources/static/images/imagen013.png)
+![imagen013](src/main/resources/static/images/Imagen013.png)
 
 ## Consumir endpoint
 
-![imagen014](src/main/resources/static/images/imagen014.png)
+![imagen014](src/main/resources/static/images/Imagen014.png)
 
