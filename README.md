@@ -6,6 +6,7 @@
 2. [Instalación de Java](#Instalación-de-JDK-21)
 3. [Importar proyecto](#Importar-y-configurar-IDE)
 4. [Consumir](#Consumir-endpoint)
+5. [Actuator](#Actuator)
 
 ## Crear el proyecto
 
@@ -65,3 +66,6 @@ Importar y configurar el IDE para ejecutar el proyecto
 
 ![imagen014](src/main/resources/static/images/Imagen014.png)
 
+## Actuator
+
+![imagen023](src/main/resources/static/images/Imagen023.png)
